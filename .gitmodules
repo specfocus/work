@@ -13,3 +13,21 @@
 [submodule "work-machine-ts"]
 	path = work-machine-ts
 	url = https://github.com/specfocus/work-machine-ts.git
+[submodule "work-save-ts"]
+	path = work-save-ts
+	url = https://github.com/specfocus/work-save-ts.git
+[submodule "work-safe-go"]
+	path = work-safe-go
+	url = https://github.com/specfocus/work-safe-go.git
+[submodule "work-safe-py"]
+	path = work-safe-py
+	url = https://github.com/specfocus/work-safe-py.git
+[submodule "work-safe-ts"]
+	path = work-safe-ts
+	url = https://github.com/specfocus/work-safe-ts.git
+[submodule "work-safe-r"]
+	path = work-safe-r
+	url = https://github.com/specfocus/work-safe-r.git
+[submodule "work-safe-cs"]
+	path = work-safe-cs
+	url = https://github.com/specfocus/work-safe-cs.git
