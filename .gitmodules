@@ -31,3 +31,9 @@
 [submodule "work-safe-cs"]
 	path = work-safe-cs
 	url = https://github.com/specfocus/work-safe-cs.git
+[submodule "work-area-ts"]
+	path = work-area-ts
+	url = https://github.com/specfocus/work-area-ts.git
+[submodule "work-area-cs"]
+	path = work-area-cs
+	url = https://github.com/specfocus/work-area-cs.git
