@@ -1,0 +1,15 @@
+[submodule "work-station-ts-face-react"]
+	path = work-station-ts-face-react
+	url = https://github.com/specfocus/work-station-ts-face-react.git
+[submodule "work-station-ts"]
+	path = work-station-ts
+	url = https://github.com/specfocus/work-station-ts.git
+[submodule "work-state-ts"]
+	path = work-state-ts
+	url = https://github.com/specfocus/work-state-ts.git
+[submodule "work-schedule-ts-face-react"]
+	path = work-schedule-ts-face-react
+	url = https://github.com/specfocus/work-schedule-ts-face-react.git
+[submodule "work-schedule-ts"]
+	path = work-schedule-ts
+	url = https://github.com/specfocus/work-schedule-ts.git
