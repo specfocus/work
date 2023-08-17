@@ -37,3 +37,12 @@
 [submodule "work-area-cs"]
 	path = work-area-cs
 	url = https://github.com/specfocus/work-area-cs.git
+[submodule "work-area-py"]
+	path = work-area-py
+	url = https://github.com/specfocus/work-area-py.git
+[submodule "work-kit-ts"]
+	path = work-kit-ts
+	url = https://github.com/specfocus/work-kit-ts.git
+[submodule "resources/semantic-kernel"]
+	path = resources/semantic-kernel
+	url = https://github.com/microsoft/semantic-kernel.git
