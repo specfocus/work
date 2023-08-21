@@ -1,3 +1,36 @@
 [submodule "resources/semantic-kernel"]
 	path = resources/semantic-kernel
 	url = https://github.com/microsoft/semantic-kernel.git
+[submodule "node/packages/work-machine-ts"]
+	path = node/packages/work-machine-ts
+	url = https://github.com/specfocus/work-machine-ts.git
+[submodule "node/packages/work-kit-ts"]
+	path = node/packages/work-kit-ts
+	url = https://github.com/specfocus/work-kit-ts.git
+[submodule "node/packages/work-save-ts"]
+	path = node/packages/work-save-ts
+	url = https://github.com/specfocus/work-save-ts.git
+[submodule "node/packages/work-save-ts-mongodb"]
+	path = node/packages/work-save-ts-mongodb
+	url = https://github.com/specfocus/work-save-ts-mongodb.git
+[submodule "node/packages/work-save-ts-ibm-s3"]
+	path = node/packages/work-save-ts-ibm-s3
+	url = https://github.com/specfocus/work-save-ts-ibm-s3.git
+[submodule "node/packages/work-save-ts-aws-s3"]
+	path = node/packages/work-save-ts-aws-s3
+	url = https://github.com/specfocus/work-save-ts-aws-s3.git
+[submodule "node/packages/work-save-ts-fs"]
+	path = node/packages/work-save-ts-fs
+	url = https://github.com/specfocus/work-save-ts-fs.git
+[submodule "node/packages/work-save-ts-cache"]
+	path = node/packages/work-save-ts-cache
+	url = https://github.com/specfocus/work-save-ts-cache.git
+[submodule "node/packages/work-save-ts-firebase"]
+	path = node/packages/work-save-ts-firebase
+	url = https://github.com/specfocus/work-save-ts-firebase.git
+[submodule "node/packages/work-save-ts-open"]
+	path = node/packages/work-save-ts-open
+	url = https://github.com/specfocus/work-save-ts-open.git
+[submodule "node/packages/work-save-ts-prisma"]
+	path = node/packages/work-save-ts-prisma
+	url = https://github.com/specfocus/work-save-ts-prisma.git
