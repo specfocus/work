@@ -1,3 +1,6 @@
 [submodule "work-machine-ts"]
 	path = work-machine-ts
 	url = https://github.com/specfocus/work-machine-ts.git
+[submodule "resources/semantic-kernel"]
+	path = resources/semantic-kernel
+	url = https://github.com/microsoft/semantic-kernel.git
