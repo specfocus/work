@@ -34,3 +34,6 @@
 [submodule "node/packages/work-save-ts-prisma"]
 	path = node/packages/work-save-ts-prisma
 	url = https://github.com/specfocus/work-save-ts-prisma.git
+[submodule "csharp/work-cerbo-ts"]
+	path = csharp/work-cerbo-ts
+	url = https://github.com/specfocus/work-cerbo-ts.git
